@@ -2,7 +2,7 @@
 
 Multi-Step registration form built with [React](https://react.dev/) + [Formik](https://formik.org/) + [Yup](https://github.com/jquense/yup) + [MUI](https://mui.com/)
 
-## [Live Demo ↗️]()
+## [Live Demo ↗️](https://react-multi-step-formik.vercel.app/)
 
 **React** is a popular JavaScript library for building user interfaces.
 
