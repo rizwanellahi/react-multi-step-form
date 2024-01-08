@@ -1,6 +1,6 @@
 # React Multi-Step Registration Form
 
-Multi-Step registration form built with [React](https://react.dev/) + [Formik](https://formik.org/) + [Yup](https://github.com/jquense/yup) + [MUI](https://mui.com/)
+Multi-Step Registration Form Built With [React](https://react.dev/) + [Formik](https://formik.org/) + [Yup](https://github.com/jquense/yup) + [MUI](https://mui.com/)
 
 ## [Live Demo ↗️](https://react-multi-step-formik.vercel.app/)
 
